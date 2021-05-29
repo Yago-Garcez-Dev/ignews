@@ -1,0 +1,20 @@
+[0m2021.05.26 19:25:14 INFO  Started: Metals version 0.10.3 in workspace 'C:\Users\yagog\Documents\Cursos\Ignite\reactjs\ch3\ignews' for client Visual Studio Code 1.56.2.[0m
+[0m2021.05.26 19:25:15 INFO  time: initialize in 1.37s[0m
+[0m2021.05.26 19:25:15 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.26 19:25:15 WARN  no build tool detected in workspace 'C:\Users\yagog\Documents\Cursos\Ignite\reactjs\ch3\ignews'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.05.26 23:14:34 INFO  shutting down Metals[0m
+[0m2021.05.27 20:34:49 INFO  Started: Metals version 0.10.3 in workspace 'C:\Users\yagog\Documents\Cursos\Ignite\reactjs\ch3\ignews' for client Visual Studio Code 1.56.2.[0m
+[0m2021.05.27 20:34:51 INFO  time: initialize in 1.7s[0m
+[0m2021.05.27 20:34:51 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.27 20:34:51 WARN  no build tool detected in workspace 'C:\Users\yagog\Documents\Cursos\Ignite\reactjs\ch3\ignews'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.05.28 00:03:36 INFO  shutting down Metals[0m
+[0m2021.05.28 00:05:42 INFO  Started: Metals version 0.10.3 in workspace 'C:\Users\yagog\Documents\Cursos\Ignite\reactjs\ch3\ignews' for client Visual Studio Code 1.56.2.[0m
+[0m2021.05.28 00:05:44 INFO  time: initialize in 1.42s[0m
+[0m2021.05.28 00:05:44 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.28 00:05:44 WARN  no build tool detected in workspace 'C:\Users\yagog\Documents\Cursos\Ignite\reactjs\ch3\ignews'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.05.28 00:11:00 INFO  shutting down Metals[0m
+[0m2021.05.28 20:49:11 INFO  Started: Metals version 0.10.3 in workspace 'C:\Users\yagog\Documents\Cursos\Ignite\reactjs\ch3\ignews' for client Visual Studio Code 1.56.2.[0m
+[0m2021.05.28 20:49:14 INFO  time: initialize in 2.22s[0m
+[0m2021.05.28 20:49:14 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.28 20:49:14 WARN  no build tool detected in workspace 'C:\Users\yagog\Documents\Cursos\Ignite\reactjs\ch3\ignews'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.05.28 22:30:49 INFO  shutting down Metals[0m
